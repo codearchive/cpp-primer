@@ -6,4 +6,4 @@ This repository contains examples of solutions exercises from the book ["C++ Pri
  * Windows: Visual Studio 2017, version 19.13.26129 
 
 ### Contents
-- Chapter 1. Getting Started
+- [Chapter 1. Getting Started](../chapter01)
